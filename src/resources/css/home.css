@@ -1,0 +1,7 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.image-view:hover{
+	-fx-scale-x:1.4;
+	-fx-scale-y:1.4;
+	-fx-opacity:1;
+}
+

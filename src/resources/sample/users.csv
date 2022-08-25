@@ -1,0 +1,15 @@
+id,username,password,email,sex,img,friends
+1,dmitro,12345,dmitroshapiro@gmail.com,man,...,"IGOR,harry,Sanuko"
+2,IGOR,girsof,gaforo@gmail.com,NULL,NULL,NULL
+3,CatSe,87610gjdw,intercom@gmail.com,NULL,NULL,NULL
+4,Sanukos,20s2k,seporu@gmail.com,man,NULL,"deb,harry,dmitro,"
+5,deb,123,vasyl@gmail.com,man,...,"debian,harry,vasilieva2,dmitro,grindomfako,Sanuko,"
+7,harry,56747,harry@gmail.com,man,...,"debian,dmitrosov"
+10,vasilieva2,34526788s,dmitroso@gmail.com,man,NULL,NULL
+11,JakartaAA,1234567890,JJabrams@gmail.com,woman,NULL,NULL
+12,gamafududu,222222222222222,gramo@gmail.com,man,NULL,NULL
+13,debian,987654321,debian@gmail.com,man,NULL,NULL
+14,Alfonsos,10293847565647382910,Alfonsos@gmail.com,woman,NULL,NULL
+15,dmitrosov,1234567890,dmitrosov@gmail.com,man,NULL,NULL
+16,grindomfako,1234567890,grindomfako@gmail.com,woman,...,"dmitro,"
+17,debiano,1234567890,debiano@gmail.com,man,NULL,NULL

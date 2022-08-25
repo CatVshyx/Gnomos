@@ -1,0 +1,20 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#anchorImage:hover{
+	-fx-background-color:#CFD0D5;
+	-fx-opacity:0.3;
+ 	-fx-background-radius:20px;
+}
+.button{
+	-fx-background-radius:15px;
+}
+.button:hover{
+	-fx-opacity:0.5;
+	
+}
+#anchorFriend{
+	-fx-background-radius:100px;
+}
+#anchorFriend:hover{
+	-fx-background-color:#CFD0D5;
+	-fx-opacity:0.3;
+}
